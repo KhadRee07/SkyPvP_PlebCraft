@@ -1,0 +1,10 @@
+name: SkyPvP
+version: ${project.version}
+main: de.langweilerlp.skypvp.SkyPvP
+api-version: 1.16
+authors: [LangweilerLP2]
+description: Das offizielle SkyPvP-Plugin von PlebCraft!
+website: PlebCraft.de
+
+commands:
+  kit:
